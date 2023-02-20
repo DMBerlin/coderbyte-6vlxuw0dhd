@@ -15,3 +15,5 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 - Applied default values for consts on functions, if none is provided by the service layer.
 
 - Installed new dependency on devDependencies to unit test functions on dpk.js.
+
+- Rewriote test file to include new business logics of functions.
